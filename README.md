@@ -26,7 +26,11 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### 康林 - [Github](https://github.com/KangLin)
+* :white_check_mark: [玉兔远程控制](https://github.com/KangLin/RabbitRemoteControl/releases/latest)：开源跨平台远程管理 App，支持远程桌面、文件传输、SSH、TELNET、RDP 和 VNC 等协议 - [查看仓库](https://github.com/KangLin/RabbitRemoteControl)
+
 #### 619dev(天津) - [Github](https://github.com/619dev)
+* :white_check_mark: [微信 PGP 加密助手](https://github.com/619dev/weixin_e2ee_crypt/releases/latest)：在微信等即时通讯 App 中通过悬浮窗加密和解密 PGP 消息，密钥与加解密操作保留在本地 - [查看仓库](https://github.com/619dev/weixin_e2ee_crypt)
 * :white_check_mark: [PaperPhonePlus](https://paperphone.app)：支持端到端加密、前向保密和音视频通话的即时通讯 App，可使用官方网页端或自托管 - [查看仓库](https://github.com/619dev/Paperphone-plus)
 * :white_check_mark: [归灯](https://guideng.vercel.app)：家庭位置共享 App，支持 Android、iOS 和自托管服务器 - [查看仓库](https://github.com/619dev/guideng)
 * :white_check_mark: [问墨](https://github.com/619dev/wenmo-android/releases/latest)：完全离线的 Android 中文输入法，不申请网络或录音权限，APK 约 1.3 MB - [查看仓库](https://github.com/619dev/wenmo-android)
