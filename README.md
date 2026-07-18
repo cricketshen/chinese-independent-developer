@@ -24,9 +24,8 @@
 
 ## 3. 项目列表
 ### 2026 年 7 月 18 号添加
-#### Jerry - [CraftVis AI Photo Editor](https://craftvis.com): CraftVis 是一个 All-in-one AI 图片工具
+#### Jerry - [CraftVis AI Photo Editor](https://craftvis.com)
 * :white_check_mark: [CraftVis AI Photo Editor]([https://voiceclone.com](https://craftvis.com))：CraftVis 是一个 All-in-one AI 图片工具，帮你用简单文字生成图片、修改图片、优化产品图、制作广告素材和社媒视觉内容。
-* 
 #### ctan0(成都)
 * :white_check_mark: [寇泰凌工具站](https://www.ctan0.top/)：常用工具一站打包，持续更新中
 
