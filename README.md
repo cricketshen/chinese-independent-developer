@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 19 号添加
+
+#### duzexu - [Github](https://github.com/duzexu)
+* :white_check_mark: [desktop-pet](https://github.com/duzexu/desktop-pet)：把自己家的宠物放到桌面上 — 开源 - [更多介绍](https://duzexu.github.io/desktop-pet/#home)
+
 ### 2026 年 7 月 18 号添加
 
 #### wnma3mz - [Github](https://github.com/wnma3mz)
